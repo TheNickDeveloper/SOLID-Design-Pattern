@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DemoLibrary
+﻿namespace DemoLibrary
 {
     public interface ILibraryItem
     {

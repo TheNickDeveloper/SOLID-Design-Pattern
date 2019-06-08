@@ -1,0 +1,6 @@
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\DemoLibrary\obj\Debug\DemoLibrary.pdb

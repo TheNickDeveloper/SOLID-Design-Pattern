@@ -40,16 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Chore.cs" />
-    <Compile Include="Emailer.cs" />
-    <Compile Include="IChore.cs" />
-    <Compile Include="IMessageSender.cs" />
-    <Compile Include="ILogger.cs" />
-    <Compile Include="IPerson.cs" />
-    <Compile Include="Logger.cs" />
-    <Compile Include="Person.cs" />
+    <Compile Include="Chore\Chore.cs" />
+    <Compile Include="InstanceSetter.cs" />
+    <Compile Include="Message\Emailer.cs" />
+    <Compile Include="Chore\IChore.cs" />
+    <Compile Include="Message\IMessager.cs" />
+    <Compile Include="Log\ILogger.cs" />
+    <Compile Include="Message\PhoneText.cs" />
+    <Compile Include="Person\IPerson.cs" />
+    <Compile Include="Log\Logger.cs" />
+    <Compile Include="Person\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Texter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,9 +1,5 @@
 ﻿using DemoLibrary;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleUI
 {
@@ -11,14 +7,14 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            IPerson owner = Factory.CreatePerson();
-
+            IPerson owner = InstanceSetter.SetPersonInstance();
             owner.FirstName = "Tim";
             owner.LastName = "Corey";
             owner.EmailAddress = "tim@iamtimcorey.com";
             owner.PhoneNumber = "555-1212";
 
-            IChore chore = Factory.CreateChore();
+            IChore chore = InstanceSetter.SetChoreInstance(
+                InstanceSetter.SetPhoneTextInstance(), InstanceSetter.SetLoggerInstance());
             chore.ChoreName = "Take out the trash";
             chore.Owner = owner;
 

@@ -4,3 +4,9 @@ C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\DIDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\DependencyInversionPrinciple\start\DIPDemo-Start\DemoLibrary\obj\Debug\DemoLibrary.pdb

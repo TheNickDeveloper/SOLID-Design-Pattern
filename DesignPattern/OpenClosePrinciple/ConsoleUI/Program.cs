@@ -1,9 +1,6 @@
 ﻿using OCPLibrary;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleUI
 {
@@ -11,14 +8,14 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            List<IApplicantModel> applicants = new List<IApplicantModel>
+            var applicants = new List<IPersonModel>
             {
                 new PersonModel { FirstName = "Tim", LastName = "Corey" },
                 new ManagerModel { FirstName = "Sue", LastName = "Storm" },
-                new ExecutiveModel { FirstName = "Nancy", LastName = "Roman" }
+                new CeoModel { FirstName = "Nancy", LastName = "Roman" }
             };
 
-            List<EmployeeModel> employees = new List<EmployeeModel>();
+            var employees = new List<EmployeeModel>();
 
             foreach (var person in applicants)
             {

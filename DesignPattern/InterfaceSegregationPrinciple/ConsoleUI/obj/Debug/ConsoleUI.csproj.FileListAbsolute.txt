@@ -1,0 +1,10 @@
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\bin\Debug\DemoLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\bin\Debug\DemoLibrary.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\InterfaceSegregationPrinciple\ConsoleUI\obj\Debug\ConsoleUI.pdb

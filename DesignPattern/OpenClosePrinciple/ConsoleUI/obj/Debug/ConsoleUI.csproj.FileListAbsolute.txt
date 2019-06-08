@@ -8,3 +8,13 @@ C:\Users\Tim\Documents\Visual Studio 2017\Projects\OCPDemo\ConsoleUI\obj\Debug\C
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.exe
 C:\Users\Tim\Documents\Visual Studio 2017\Projects\OCPDemo\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.dll
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\bin\Debug\OCPLibrary.pdb
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\32355\Documents\GitHub\SOLID-Design-Pattern\DesignPattern\OpenClosePrinciple\start\OCPDemoStart\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -40,17 +40,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Accounts\Accounts.cs" />
-    <Compile Include="Accounts\ExecutiveAccounts.cs" />
-    <Compile Include="Accounts\IAccounts.cs" />
-    <Compile Include="Accounts\ManagerAccounts.cs" />
-    <Compile Include="Applicants\ExecutiveModel.cs" />
-    <Compile Include="Applicants\IApplicantModel.cs" />
-    <Compile Include="Applicants\ManagerModel.cs" />
-    <Compile Include="Applicants\PersonModel.cs" />
-    <Compile Include="Applicants\TechnicianModel.cs" />
-    <Compile Include="EmployeeModel.cs" />
+    <Compile Include="Account\Accounts.cs" />
+    <Compile Include="Account\CeoAccounts.cs" />
+    <Compile Include="Model\CeoModel.cs" />
+    <Compile Include="Model\EmployeeModel.cs" />
+    <Compile Include="Account\IAccounts.cs" />
+    <Compile Include="Model\IPersonModel.cs" />
+    <Compile Include="Account\ManagerAccounts.cs" />
+    <Compile Include="Model\ManagerModel.cs" />
+    <Compile Include="Model\PersonModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

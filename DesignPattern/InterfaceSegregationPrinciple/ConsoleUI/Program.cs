@@ -1,9 +1,5 @@
 ﻿using DemoLibrary;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleUI
 {
@@ -12,8 +8,9 @@ namespace ConsoleUI
         static void Main(string[] args)
         {
             IBorrowableDVD dvd = new DVD();
-
-
+            IBorrowableDVD digitalMovie = new DigitalMovie();
+            IBorrowableBook harryPotter = new Book();
+            IBook libraryRefBook = new ReferenceBook();
 
             Console.ReadLine();
         }
